@@ -1,5 +1,4 @@
 <script>
-  export let name;
   import { onMount } from "svelte";
   import ScrollReveal from "scrollreveal";
 
